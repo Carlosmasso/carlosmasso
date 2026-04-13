@@ -1,4 +1,4 @@
-# Hey, soy Carlos Masso! 👋
+# Hey, soy Carlos! 👋
 
 > [!NOTE]
 Soy desarrollador **Frontend** con amor por React y Ruby on Rails en el backend.

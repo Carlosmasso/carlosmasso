@@ -7,7 +7,7 @@ Soy desarrollador **Frontend** con amor por React y Ruby on Rails en el backend.
 
 ---
 
-## 🙋 Sobre mí
+> [!TIP] Sobre mí
 
 - ⚛️ Vivo en el mundo de los componentes React
 - 🛤️ Sobrevivo (y disfruto) Ruby on Rails en el backend

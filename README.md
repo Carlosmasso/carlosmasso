@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, soy Carlos Masso 👋
 
-<!--
-**Carlosmasso/carlosmasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"El mejor código es el que no necesita comentarios para entenderse."*
 
-Here are some ideas to get you started:
+Soy desarrollador **Frontend** con amor por React y una relación complicada (pero funcional) con Ruby on Rails en el backend. Me obsesiona el código limpio, la refactorización y dejar las cosas mejor de lo que las encontré. Sí, soy ese tipo que refactoriza código antes de añadir features. 🧹✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋 Sobre mí
+
+- ⚛️ Vivo en el mundo de los componentes React
+- 🛤️ Sobrevivo (y disfruto) Ruby on Rails en el backend
+- 🧹 Fan número uno del código limpio y la refactorización
+- 🔍 Si algo funciona pero es feo, lo voy a reescribir
+- 📐 Creo que el naming de variables es un arte infravalorado
+- ☕ El código mal indentado me quita el sueño
+
+> *Siempre abierto a colaborar en proyectos donde el código importe tanto como el resultado.*
